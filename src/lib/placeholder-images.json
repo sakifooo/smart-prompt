@@ -1,0 +1,22 @@
+{
+  "placeholderImages": [
+    {
+      "id": "1",
+      "description": "Cyberpunk city landscape",
+      "imageUrl": "https://picsum.photos/seed/cyber1/600/400",
+      "imageHint": "cyberpunk city"
+    },
+    {
+      "id": "2",
+      "description": "Abstract ethereal nebula",
+      "imageUrl": "https://picsum.photos/seed/nebula/600/400",
+      "imageHint": "space nebula"
+    },
+    {
+      "id": "3",
+      "description": "Minimalist mountain peaks",
+      "imageUrl": "https://picsum.photos/seed/mount/600/400",
+      "imageHint": "mountains sunset"
+    }
+  ]
+}
