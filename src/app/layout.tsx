@@ -4,6 +4,9 @@ import './globals.css';
 export const metadata: Metadata = {
   title: 'Smart Prompt | Free AI Prompt Engineer',
   description: 'The professional AI prompt builder optimized for text, images, and videos.',
+  verification: {
+    google: 'VzK0Ce6V01Jr_8MvkE_i_rwtYftEtrnNdtl5KY1cIdQ',
+  },
 };
 
 export default function RootLayout({
