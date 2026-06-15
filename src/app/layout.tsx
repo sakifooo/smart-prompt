@@ -4,11 +4,54 @@ import './globals.css';
 export const metadata: Metadata = {
   title: 'Smart Prompt | Free AI Prompt Engineer',
   description: 'The professional AI prompt builder optimized for text, images, and videos.',
-  verification: {
+
+    keywords: [
+    'Smart Prompt',
+    'AI prompt generator',
+    'prompt engineer',
+    'ChatGPT prompts',
+    'AI tools',
+    'text to prompt',
+    'image prompt generator',
+    'video prompt AI',
+    'prompt builder',
+    'free AI prompt tool',
+  ],
+  metadataBase: new URL('https://smart-prompt-nine.vercel.app'),
+ verification: {
     google: 'VzK0Ce6V01Jr_8MvkE_i_rwtYftEtrnNdtl5KY1cIdQ',
   },
-};
+  robots: {
+  index: true,
+  follow: true,
+},
+  alternates: {
+    canonical: '/',
+  },
+ openGraph: {
+    title: 'Smart Prompt | AI Prompt Generator',
+    description:
+      'Create optimized AI prompts for text, image, and video generation using Smart Prompt.',
+    url: 'https://smart-prompt-nine.vercel.app/',
+    siteName: 'Smart Prompt',
+    locale: 'en_US',
+    type: 'website',
+    images: [
+      {
+        url: '/og-image.jpg',
+        width: 1200,
+        height: 630,
+        alt: 'Smart Prompt AI',
+      },
+    ],
+  },
 
+  twitter: {
+    card: 'summary_large_image',
+    title: 'Smart Prompt | AI Prompt Generator',
+    description:
+      'Generate high-quality AI prompts for text, images, and videos easily with Smart Prompt.',
+  },
 export default function RootLayout({
   children,
 }: Readonly<{
