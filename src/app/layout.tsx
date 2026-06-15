@@ -52,6 +52,7 @@ export const metadata: Metadata = {
     description:
       'Generate high-quality AI prompts for text, images, and videos easily with Smart Prompt.',
   },
+  }; 
 export default function RootLayout({
   children,
 }: Readonly<{
