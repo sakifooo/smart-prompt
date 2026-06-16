@@ -18,7 +18,7 @@ export const metadata: Metadata = {
     'free AI prompt tool',
   ],
 
-  metadataBase: new URL('https://smart-prompt-nine.vercel.app'),
+  metadataBase: new URL('https://ourspase.com'),
 
   verification: {
     google: '2Zhv7aVnqJC6yceL8HJy8eqcDWqIo20cIYvF5FboUX0',
@@ -37,7 +37,7 @@ export const metadata: Metadata = {
     title: 'Smart Prompt | AI Prompt Generator',
     description:
       'Create optimized AI prompts for text, image, and video generation using Smart Prompt.',
-    url: 'https://smart-prompt-nine.vercel.app/',
+    url: 'https://ourspase.com/',
     siteName: 'Smart Prompt',
     locale: 'en_US',
     type: 'website',
