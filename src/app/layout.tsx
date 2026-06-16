@@ -21,7 +21,7 @@ export const metadata: Metadata = {
   metadataBase: new URL('https://smart-prompt-nine.vercel.app'),
 
   verification: {
-    google: 'VzK0Ce6V01Jr_8MvkE_i_rwtYftEtrnNdtl5KY1cIdQ',
+    google: '2Zhv7aVnqJC6yceL8HJy8eqcDWqIo20cIYvF5FboUX0',
   },
 
   robots: {
