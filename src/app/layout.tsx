@@ -21,7 +21,7 @@ export const metadata: Metadata = {
   metadataBase: new URL('https://www.chardhama.com/'),
 
   verification: {
-    google: '2Zhv7aVnqJC6yceL8HJy8eqcDWqIo20cIYvF5FboUX0',
+    google: 'uq4OvOWYu8KTvby9u_C8Bg0bWB-YWA30Zr4mT1mB7jY',
   },
 
   robots: {
