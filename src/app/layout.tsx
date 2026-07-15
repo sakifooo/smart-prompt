@@ -71,6 +71,8 @@ export default function RootLayout({
           rel="stylesheet"
         />
       </head>
+
+      <meta name="google-site-verification" content="uq4OvOWYu8KTvby9u_C8Bg0bWB-YWA30Zr4mT1mB7jY" />
       
       <body className="font-body antialiased bg-white text-slate-900 selection:bg-sky-100">
         {children}
