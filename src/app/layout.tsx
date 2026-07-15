@@ -18,7 +18,7 @@ export const metadata: Metadata = {
     'free AI prompt tool',
   ],
 
-  metadataBase: new URL('https://ourspase.com'),
+  metadataBase: new URL('https://www.chardhama.com/'),
 
   verification: {
     google: '2Zhv7aVnqJC6yceL8HJy8eqcDWqIo20cIYvF5FboUX0',
