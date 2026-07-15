@@ -37,7 +37,7 @@ export const metadata: Metadata = {
     title: 'Smart Prompt | AI Prompt Generator',
     description:
       'Create optimized AI prompts for text, image, and video generation using Smart Prompt.',
-    url: 'https://ourspase.com/',
+    url: 'https://www.chardhama.com/',
     siteName: 'Smart Prompt',
     locale: 'en_US',
     type: 'website',
